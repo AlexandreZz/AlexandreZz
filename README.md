@@ -13,8 +13,6 @@
   <br/>
   <br/>
   <br/>
-  
-![snake gif](https://github.com/AlexandreZz/AlexandreZz/blob/output/github-contribution-grid-snake.svg)
 
   <br/>
   <br/>
