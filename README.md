@@ -5,15 +5,21 @@
 <img style="padding:20px 50px;" src="https://readme-typing-svg.herokuapp.com?color=7B80FF&center=true&vCenter=true&lines=hello+my+name+is+Alexandre;+I'm+22+years+old;study+web+development"/>
 
 
+ ## Sobre-mim:
+   Olá, bem-vindo ao meu perfil, aqui você vai encontrar projetos simples mais funcional, não sou nenhum especialista em programação, tenho apenas 1 ano e pouco na área de programação WEB, mas procuro sempre aprende mais, sou uma pessoa autodidata, não fiz faculdade apenas aprendi a programação com cursos em vídeos que existe pela “internet”, nunca participei de projetos com outros programadores então se algum programador estiver afim. Tenho conhecimento em HTML,CSS3,JAVASCRIPT,PHP e MySql(SQL).
+Conheça meu <h3>portfólio(http://alexandrelimadev.xyz/)</h3>Lá esta todos os projetos que fiz, na prática, esse portfólio tem um painel de controle onde ele é 90% criados com banco de dados, <p>__fiz um usuário para as pessoas visualizarem como está também o painel de controle.__</p> <h4>__LOGIN:teste;SENHA:teste__</h4>
+
+As funcionalidades não vão funcionar por conta que é um usuário com cargo “Normal” mais é legal visualizar o painel, fiz uma paleta de cores onde o usuário poderá seta várias cores de acordo com gosto dele(a).
+
+ <br/>
+ <br/>
+ <br/>
 <div>
   <a href="https://github.com/AlexandreZz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreZz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreZz&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <br/>
-  <br/>
-  <br/>
-
   <br/>
   <br/>
 
@@ -26,15 +32,13 @@
     <a href="https://www.linkedin.com/in/alexandre-lima-0aba26236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
- ## Main Skills:
+ ## Habilidades principais:
 <a> <img src="https://img.shields.io/badge/-HTML5-rgb(228,%2077,%2038)?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 <a><img src="https://img.shields.io/badge/-CSS3-rgb(61,%20143,%20198)?style=for-the-badge&logo=css3&logoColor=white" /> </a>
 <a><img src="https://img.shields.io/badge/-javascript-rgb(240,%20219,%2079)?style=for-the-badge&logo=javascript&logoColor=rgb(100,123,255)" /> </a>
 <a><img src="https://img.shields.io/badge/-jquery-rgb(61,%20143,%20198)?style=for-the-badge&logo=jquery&logoColor=white" /> </a>
-
-  <br/>
   
-## Tools:
+## Ferramentas:
  
 <a> <img src="https://img.shields.io/badge/-sublime%20text%203-rgb(219,%20137,%2015)?style=for-the-badge&logo=sublime-text&logoColor=white"/> </a>
 <b style="margin:0 30px;">         OR          </b> 
@@ -42,14 +46,15 @@
 <a> <img src="https://img.shields.io/badge/-xampp-rgb(251,%20122,%2036)?style=for-the-badge&logo=xampp&logoColor=white" /> </a>
   
  
- ## Other Knowledge:
+ ## Outros conhecimentos:
   <a> <img src="https://img.shields.io/badge/-Bootstrap-rgb(130,%2016,%20245)?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
   <a> <img src="https://img.shields.io/badge/-python-rgb(42,%20122,%20172)?style=for-the-badge&logo=python&logoColor=white"/> </a>
  <a> <img src="https://img.shields.io/badge/-mysql(sql)-rgb(5,%20138,%20180)?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
  
-## Studying in this moment:
+## Estudando neste momento:
  <a> <img src="https://img.shields.io/badge/-php-rgb(136,%20146,%20191)?style=for-the-badge&logo=php&logoColor=white"/> </a>
   
+  <br/>
   
   
 ![footer](https://user-images.githubusercontent.com/102924541/171688595-5d6ed213-8ee9-4758-9180-9ad6506cadfb.svg)
