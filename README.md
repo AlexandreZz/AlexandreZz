@@ -12,9 +12,11 @@
 </div>
   <br/>
   <br/>
+  <br/>
   
-  <img src="https://raw.githubusercontent.com/AlexandreZz/AlexandreZz/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/AlexandreZz/AlexandreZz/blob/output/github-contribution-grid-snake.svg)
 
+  <br/>
   <br/>
   
   <div>
