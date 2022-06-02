@@ -7,7 +7,7 @@
 
  ## Sobre-mim:
    Olá, bem-vindo ao meu perfil, aqui você vai encontrar projetos simples mais funcional, não sou nenhum especialista em programação, tenho apenas 1 ano e pouco na área de programação WEB, mas procuro sempre aprende mais, sou uma pessoa autodidata, não fiz faculdade apenas aprendi a programação com cursos em vídeos que existe pela “internet”, nunca participei de projetos com outros programadores então se algum programador estiver afim. Tenho conhecimento em HTML,CSS3,JAVASCRIPT,PHP e MySql(SQL).
-Conheça meu <h3>portfólio(<a target="__blank">http://alexandrelimadev.xyz/)</a></h3>Lá esta todos os projetos que fiz, na prática, esse portfólio tem um painel de controle onde ele é 90% criados com banco de dados, <p>__fiz um usuário para as pessoas visualizarem como está também o painel de controle.__</p> <h4>__LOGIN:teste;SENHA:teste__</h4>
+Conheça meu <h3>portfólio(<a href="http://alexandrelimadev.xyz/" target="__blank">CLICK AQUI</a>)</h3>Lá esta todos os projetos que fiz, na prática, esse portfólio tem um painel de controle onde ele é 90% criados com banco de dados, <p>__fiz um usuário para as pessoas visualizarem como está também o painel de controle.__</p> <h4>__LOGIN:teste;SENHA:teste__</h4>
 
 As funcionalidades não vão funcionar por conta que é um usuário com cargo “Normal” mais é legal visualizar o painel, fiz uma paleta de cores onde o usuário poderá seta várias cores de acordo com gosto dele(a).
 
