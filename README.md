@@ -18,7 +18,7 @@
 
   <br/>
   <br/>
-  
+
   <div>
     <h2>CONTATO</h2>
     <a href="http://alexandrelimadev.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rgb(100,123,255)?style=for-the-badge&logoColor=white" target="_blank"></a>
