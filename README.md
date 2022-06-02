@@ -2,7 +2,7 @@
 
 
 
-<img style="padding:20px 50px;" src="https://readme-typing-svg.herokuapp.com?color=7B80FF&center=true&vCenter=true&lines=hello+my+name+is+Alexandre;+I'm+22+years+old;study+web+development"/>
+<img style="padding:20px 50px;" src="https://readme-typing-svg.herokuapp.com?color=7B80FF&center=true&vCenter=true&lines=Olá+meu+nome+é+Alexandre;+tenho+22+anos;estudo+desenvolvimento+WEB"/>
 
 
  ## Sobre-mim:
