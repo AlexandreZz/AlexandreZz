@@ -6,12 +6,9 @@
 
 
  ## Sobre-mim:
-   Olá, bem-vindo,Sou Alexandre tenho 1 ano e pouco na programação WEB, mas procuro sempre aprende mais, sou uma pessoa autodidata, não fiz faculdade, aprendi a programação com cursos em vídeos, nunca participei de projetos com outros programadores então se algum programador estiver afim entre em contato. Tenho conhecimento em HTML5,CSS3,JAVASCRIPT e pouco de conhecimento em PHP e MySql(SQL).
-Conheça meu <h3>portfólio(<a href="http://alexandrelimadev.xyz/" target="_blank">CLICK AQUI</a>)</h3>Lá esta algum dos projetos que fiz, na prática, esse portfólio tem um painel de controle criado com PHP, <p>__fiz um usuário para as pessoas visualizarem como está também o painel de controle.__</p> <h4>__LOGIN:teste;SENHA:teste__</h4>
+<p>Olá, sejam bem vindos, sou Alexandre, tenho um ano de programação WEB, não fiz faculdade, aprendi programação com cursos em vídeo, nunca participei de projetos com outros programador, então se algum programador tem interesse, entre em contato. Possuo conhecimentos em HTML5, CSS3, JAVASCRIPT. Estou aprendendo javascript o máximo que posso, pra mim não depende de framework, mas estou disposto a aprender React</p>
 
-As funcionalidades do painel não vão funcionar por conta que é um usuário com cargo “Normal” mais é legal visualizar o painel, que possui uma paleta de cores onde o usuário poderá escolher a cor desejável.
-
-Meu foco agora esta sendo no front-end por conta de eu não ter muito conhecimento em técnicas de animação e efeitos.
+Meu foco é o front-end.
 
  <br/>
  <br/>
@@ -51,11 +48,9 @@ Meu foco agora esta sendo no front-end por conta de eu não ter muito conhecimen
  ## Outros conhecimentos:
   <a> <img src="https://img.shields.io/badge/-Bootstrap-rgb(130,%2016,%20245)?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
   <a> <img src="https://img.shields.io/badge/-python-rgb(42,%20122,%20172)?style=for-the-badge&logo=python&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/-mysql(sql)-rgb(5,%20138,%20180)?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
  
-## Estudando neste momento:
- <a> <img src="https://img.shields.io/badge/-php-rgb(136,%20146,%20191)?style=for-the-badge&logo=php&logoColor=white"/> </a>
-  
+<!-- # Estudando neste momento: -->
+<!-- <a> <img src="https://img.shields.io/badge/-php-rgb(136,%20146,%20191)?style=for-the-badge&logo=php&logoColor=white"/> </a> -->
   <br/>
   
   
