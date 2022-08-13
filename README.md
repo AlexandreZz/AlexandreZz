@@ -49,8 +49,8 @@ Meu foco é o front-end.
   <a> <img src="https://img.shields.io/badge/-Bootstrap-rgb(130,%2016,%20245)?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
   <a> <img src="https://img.shields.io/badge/-python-rgb(42,%20122,%20172)?style=for-the-badge&logo=python&logoColor=white"/> </a>
  
-<!-- # Estudando neste momento: -->
-<!-- <a> <img src="https://img.shields.io/badge/-php-rgb(136,%20146,%20191)?style=for-the-badge&logo=php&logoColor=white"/> </a> -->
+# Estudando neste momento:
+<a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>         AND         <a> <img src="https://img.shields.io/badge/-NEXT-rgb(14,6,41)?style=for-the-badge&logo=NextJS&logoColor=white%22"/> </a>
   <br/>
   
   
