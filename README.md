@@ -24,7 +24,6 @@ Meu foco é o front-end.
 
   <div>
     <h2>CONTATO</h2>
-    <a href="http://alexandrelimadev.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rgb(100,123,255)?style=for-the-badge&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/alexandrev_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:alexandredesenvolvedor5k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/Alexandre.limaa2" target="__blank"> <img src="https://img.shields.io/badge/facebook-rgb(24,%20119,%20242)?style=for-the-badge&logo=facebook&logoColor=white" target="__blank"/> </a>
