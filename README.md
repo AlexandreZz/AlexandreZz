@@ -48,6 +48,11 @@ Meu foco é o front-end.
   <a> <img src="https://img.shields.io/badge/-Bootstrap-rgb(130,%2016,%20245)?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
   <a> <img src="https://img.shields.io/badge/-python-rgb(42,%20122,%20172)?style=for-the-badge&logo=python&logoColor=white"/> </a>
  
+ ## Conhecimentos Basicos:
+ <a> <img src="https://img.shields.io/badge/-Git-rgb(49,%2049,%2049)?style=for-the-badge&logo=git&logoColor=white" /> </a>
+ <a> <img src="https://img.shields.io/badge/-php-rgb(19,%2021,%2054)?style=for-the-badge&logo=php&logoColor=whit"/> </a>
+ 
+ 
 # Estudando neste momento:
 <a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>         AND         <a> <img src="https://img.shields.io/badge/-NEXTJS-rgb(14,6,41)?style=for-the-badge&logo=vercel&logoColor=white%22"/> </a>
   <br/>
