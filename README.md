@@ -54,7 +54,7 @@ Meu foco é o front-end.
  
  
 # Estudando neste momento:
-<a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>         AND         <a> <img src="https://img.shields.io/badge/-NEXTJS-rgb(14,6,41)?style=for-the-badge&logo=vercel&logoColor=white%22"/> </a>
+<a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>
   <br/>
   
   
