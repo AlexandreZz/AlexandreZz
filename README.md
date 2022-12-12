@@ -6,9 +6,7 @@
 
 
  ## Sobre-mim:
-<p>Olá, sejam bem vindos, sou Alexandre, tenho um ano de programação WEB, não fiz faculdade, aprendi programação com cursos em vídeo, nunca participei de projetos com outros programador, então se algum programador tem interesse, entre em contato. Possuo conhecimentos em HTML5, CSS3, JAVASCRIPT. Estou aprendendo javascript o máximo que posso, pra mim não depende de framework, mas estou disposto a aprender React</p>
-
-Meu foco é o front-end.
+<p>Olá, seja bem vindo sou o Alexandre, gosto muito de estudar programação, não fiz faculdade, aprendi programação com cursos online e livros, tenho conhecimento em <b>HTML5</b>, <b>CSS3</b>, <b>JAVASCRIPT</b>, <b>ReactJS</b>, <b>PHP5</b>, <b>Python3</b>, <b>Bootstrap5</b> , <b>jQuery</b> (não uso mais com frequência).</p
 
  <br/>
  <br/>
@@ -35,6 +33,7 @@ Meu foco é o front-end.
 <a><img src="https://img.shields.io/badge/-CSS3-rgb(61,%20143,%20198)?style=for-the-badge&logo=css3&logoColor=white" /> </a>
 <a><img src="https://img.shields.io/badge/-javascript-rgb(240,%20219,%2079)?style=for-the-badge&logo=javascript&logoColor=rgb(100,123,255)" /> </a>
 <a><img src="https://img.shields.io/badge/-jquery-rgb(61,%20143,%20198)?style=for-the-badge&logo=jquery&logoColor=white" /> </a>
+<a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>
   
 ## Ferramentas:
  
@@ -47,16 +46,13 @@ Meu foco é o front-end.
  ## Outros conhecimentos:
   <a> <img src="https://img.shields.io/badge/-Bootstrap-rgb(130,%2016,%20245)?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
   <a> <img src="https://img.shields.io/badge/-python-rgb(42,%20122,%20172)?style=for-the-badge&logo=python&logoColor=white"/> </a>
+  <a> <img src="https://img.shields.io/badge/-Git-rgb(49,%2049,%2049)?style=for-the-badge&logo=git&logoColor=white" /> </a>
+  <a> <img src="https://img.shields.io/badge/-php-rgb(19,%2021,%2054)?style=for-the-badge&logo=php&logoColor=whit"/> </a>
+  <a> <img src="https://img.shields.io/badge/-firebase-rgb(247,%20197,%2042)?style=for-the-badge&logo=firebase&logoColor=white"/> </a>
  
- ## Conhecimentos Basicos:
- <a> <img src="https://img.shields.io/badge/-Git-rgb(49,%2049,%2049)?style=for-the-badge&logo=git&logoColor=white" /> </a>
- <a> <img src="https://img.shields.io/badge/-php-rgb(19,%2021,%2054)?style=for-the-badge&logo=php&logoColor=whit"/> </a>
+ ## Design:
+ <a> <img src="https://img.shields.io/badge/-figma-rgb(100,123,255)?style=for-the-badge&logo=figma&logoColor=white"/> </a>
  
- 
-# Estudando neste momento:
-<a> <img src="https://img.shields.io/badge/-React-rgb(14,6,41)?style=for-the-badge&logo=react&logoColor=white%22"/> </a>
-  <br/>
-  
   
 ![footer](https://user-images.githubusercontent.com/102924541/171688595-5d6ed213-8ee9-4758-9180-9ad6506cadfb.svg)
 
