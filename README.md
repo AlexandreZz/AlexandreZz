@@ -8,7 +8,7 @@
  ## Sobre-mim:
 <p>Olá, seja bem vindo sou o Alexandre, gosto muito de estudar programação, não fiz faculdade, aprendi programação com cursos online e livros, tenho conhecimento em <b>HTML5</b>, <b>CSS3</b>, <b>JAVASCRIPT</b>, <b>ReactJS</b>, <b>PHP5</b>, <b>Python3</b>, <b>Bootstrap5</b> , <b>jQuery</b> (não uso mais com frequência).</p
  
- Para visualizar meu trabalho acesse meu <a href="https://alexandrelimazz.netlify.app/">PORTFÓLIO</a>
+ Para visualizar meu trabalho acesse meu <a href="https://alexandrelimazz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTF%C3%93LIO-rgb(100,123,255)?style=for-the-badge&&logoColor=white"/></a>
 
  <br/>
  <br/>
