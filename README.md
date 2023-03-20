@@ -8,7 +8,7 @@
  ## Sobre-mim:
 <p>Olá, seja bem vindo sou o Alexandre, gosto muito de estudar programação, não fiz faculdade, aprendi programação com cursos online e livros, tenho conhecimento em <b>HTML5</b>, <b>CSS3</b>, <b>JAVASCRIPT</b>, <b>ReactJS</b>, <b>PHP5</b>, <b>Python3</b>, <b>Bootstrap5</b> , <b>jQuery</b> (não uso mais com frequência).</p
  
- Para visualizar meu trabalho acesse meu <a href="https://alexandrelimazz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTF%C3%93LIO-rgb(100,123,255)?style=for-the-badge&&logoColor=white"/></a>
+ Para visualizar meu trabalho acesse meu <a href="https://alexandrelimazz.netlify.app/" target="_blank">PORTFÓLIO</a>
 
  <br/>
  <br/>
@@ -27,7 +27,8 @@
     <a href="https://www.instagram.com/alexandrev_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:alexandredesenvolvedor5k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/Alexandre.limaa2" target="__blank"> <img src="https://img.shields.io/badge/facebook-rgb(24,%20119,%20242)?style=for-the-badge&logo=facebook&logoColor=white" target="__blank"/> </a>
-    <a href="https://www.linkedin.com/in/alexandre-lima-0aba26236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/alexandre-lima-0aba26236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://alexandrelimazz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTF%C3%93LIO-rgb(100,123,255)?style=for-the-badge&&logoColor=white"/></a>
 </div>
   
  ## Habilidades principais:
